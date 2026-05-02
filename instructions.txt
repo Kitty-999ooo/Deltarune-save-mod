@@ -1,0 +1,8 @@
+Copy and paste your deltarune chapter folders, and name them "chapter1_windows_debug", "chapter2_windows_debug", ect.
+If you don't understand this, or do not want to do this^ I have also probided a batch file that will automatically do that for you
+
+With your vanilla deltarune save patch each data.win to with its matching patch file in the _debug folders (the patch for deltarune chapter 4 is labled "ch4", and the patch for the launcher is labled "launcher"
+
+once all 5 data.win files are patched, when launching deltarune, press "D" to toggle "Debug mode". his will toggle if you go into the vanilla game, or the modded one (modded has debug activated)
+
+When in deltarune, if the mod is active, you should see "page:#". Press "A" to decrease this vvalue, and "D" to incrase it
