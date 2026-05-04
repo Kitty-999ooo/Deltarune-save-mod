@@ -5,4 +5,4 @@ The windows batch script is only to be used for setting up your installation for
 
 This mod will not affect your default instalation's save system. The formaat is "filech*chapter*_*slot*". If it is on page 2 or higher, "filech*chapter*_*slot*_*page number-1*"
 
-this mod is compatable with https://github.com/Kitty-999ooo/Kris-Completion-Reverser
+this mod is compatible with https://github.com/Kitty-999ooo/Kris-Completion-Reverser
